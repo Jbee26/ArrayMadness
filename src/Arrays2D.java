@@ -34,6 +34,7 @@ public class Arrays2D {
         }
 
     }
+
     public double avgNum() {
 
         double average = 0;
