@@ -52,7 +52,7 @@ public class Arrays2D {
 
     }
 
-        // return the avg num that is in the grid
+
     }
 
 
